@@ -5,3 +5,4 @@ line from feature-B
 
 change made by developer B
 change by pull request workflow
+main moved forward
